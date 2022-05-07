@@ -16,6 +16,7 @@ if __name__ == '__main__':
     print("Hello git2!")
     print("Hot fix!")
     print("Push test!")
+    print("Pull test!")
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
